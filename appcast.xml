@@ -13,7 +13,10 @@
                 ]]></description> 
             <enclosure 
                 url="https://raw.githubusercontent.com/Poordeveloper/VideoZ/master/VideoZ-1.0.zip" 
-                sparkle:version="1.0"
+                length="1306892"
+                sparkle:version="1"
+                sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh="
+                sparkle:shortVersionString="1.0"
                 type="application/octet-stream"/> 
             <sparkle:minimumSystemVersion>10.6.0</sparkle:minimumSystemVersion> 
         </item> 

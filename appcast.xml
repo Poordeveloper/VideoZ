@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"> 
+    <channel> 
+        <title>VideoZ Appcast</title> 
+        <link>https://raw.githubusercontent.com/Poordeveloper/VideoZ/master/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description> 
+        <language>en</language> 
+
+        <item> 
+            <title>VideoZ 1.0</title>
+            <pubDate>Sat Jun 14 11:24:49 EDT 2014</pubDate>
+            <description><![CDATA[
+                <h2>First Version!</h2>
+                ]]></description> 
+            <enclosure 
+                url="https://raw.githubusercontent.com/Poordeveloper/VideoZ/master/VideoZ-1.0.zip" 
+                sparkle:version="1.0"
+                type="application/octet-stream"/> 
+            <sparkle:minimumSystemVersion>10.6.0</sparkle:minimumSystemVersion> 
+        </item> 
+
+    </channel> 
+</rss>

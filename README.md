@@ -1,5 +1,5 @@
 # VideoZ
-A mac app for uploading videos files to YouTube automatically.
+A mac app for uploading video files to YouTube automatically.
 
 Features:
 - Automatically detect new video files and upload 

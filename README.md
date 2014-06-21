@@ -1,4 +1,4 @@
-VideoZ - YouTube Uploader for Mac ![Icon](https://raw.githubusercontent.com/Poordeveloper/VideoZ/master/icon128.png)
+![Icon](https://raw.githubusercontent.com/Poordeveloper/VideoZ/master/icon128.png)
 ===================================
 A mac app for uploading video files to YouTube automatically.
 
